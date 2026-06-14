@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">Average time between conversion steps</title>
+  <desc id="desc">Horizontal bar chart showing 11.21 minutes from view to cart, 5.31 minutes from cart to checkout, 5.00 minutes from checkout to payment, and 3.05 minutes from payment to purchase.</desc>
+  <rect width="1000" height="560" fill="#fbfaf8"/>
+  <text x="70" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#24313d">Average Time Between Funnel Steps</text>
+  <text x="70" y="94" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#637083">Converted users completed the full journey in 24.56 minutes on average</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="70" y="164" font-size="17" font-weight="700" fill="#24313d">Page View to Add to Cart</text>
+    <rect x="310" y="136" width="560" height="42" rx="8" fill="#2f6f73"/>
+    <text x="890" y="164" font-size="20" font-weight="700" fill="#24313d">11.21 min</text>
+
+    <text x="70" y="244" font-size="17" font-weight="700" fill="#24313d">Add to Cart to Checkout</text>
+    <rect x="310" y="216" width="265" height="42" rx="8" fill="#d98b3a"/>
+    <text x="595" y="244" font-size="20" font-weight="700" fill="#24313d">5.31 min</text>
+
+    <text x="70" y="324" font-size="17" font-weight="700" fill="#24313d">Checkout to Payment</text>
+    <rect x="310" y="296" width="250" height="42" rx="8" fill="#466fb0"/>
+    <text x="580" y="324" font-size="20" font-weight="700" fill="#24313d">5.00 min</text>
+
+    <text x="70" y="404" font-size="17" font-weight="700" fill="#24313d">Payment to Purchase</text>
+    <rect x="310" y="376" width="152" height="42" rx="8" fill="#9c5f8f"/>
+    <text x="482" y="404" font-size="20" font-weight="700" fill="#24313d">3.05 min</text>
+
+    <rect x="70" y="468" width="860" height="54" rx="8" fill="#efe9e1"/>
+    <text x="94" y="502" font-size="18" font-weight="700" fill="#24313d">Key takeaway:</text>
+    <text x="220" y="502" font-size="17" fill="#3f4c59">The first step is both the slowest and the biggest drop-off point.</text>
+  </g>
+</svg>

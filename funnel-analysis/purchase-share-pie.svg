@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">Purchase share by traffic source</title>
+  <desc id="desc">Pie chart showing organic 42.3 percent, paid ads 24.4 percent, email 21.4 percent, and social 11.8 percent of purchases.</desc>
+  <rect width="1000" height="560" fill="#fbfaf8"/>
+  <text x="70" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#24313d">Purchase Share by Traffic Source</text>
+  <text x="70" y="94" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#637083">Organic drives the most buyers, while email is the most efficient converter</text>
+
+  <g transform="translate(305 305) rotate(-90)">
+    <circle r="145" fill="transparent" stroke="#466fb0" stroke-width="120" stroke-dasharray="42.3 57.7" pathLength="100"/>
+    <circle r="145" fill="transparent" stroke="#d98b3a" stroke-width="120" stroke-dasharray="24.4 75.6" stroke-dashoffset="-42.3" pathLength="100"/>
+    <circle r="145" fill="transparent" stroke="#2f6f73" stroke-width="120" stroke-dasharray="21.4 78.6" stroke-dashoffset="-66.7" pathLength="100"/>
+    <circle r="145" fill="transparent" stroke="#9c5f8f" stroke-width="120" stroke-dasharray="11.8 88.2" stroke-dashoffset="-88.1" pathLength="100"/>
+  </g>
+  <circle cx="305" cy="305" r="82" fill="#fbfaf8"/>
+  <text x="305" y="300" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#24313d">709</text>
+  <text x="305" y="326" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#637083">total buyers</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" transform="translate(600 180)">
+    <g>
+      <rect x="0" y="0" width="20" height="20" rx="4" fill="#466fb0"/>
+      <text x="34" y="17" font-size="18" font-weight="700" fill="#24313d">Organic</text>
+      <text x="210" y="17" font-size="18" font-weight="700" fill="#24313d" text-anchor="end">300</text>
+      <text x="250" y="17" font-size="16" fill="#637083">42.3%</text>
+    </g>
+    <g transform="translate(0 62)">
+      <rect x="0" y="0" width="20" height="20" rx="4" fill="#d98b3a"/>
+      <text x="34" y="17" font-size="18" font-weight="700" fill="#24313d">Paid Ads</text>
+      <text x="210" y="17" font-size="18" font-weight="700" fill="#24313d" text-anchor="end">173</text>
+      <text x="250" y="17" font-size="16" fill="#637083">24.4%</text>
+    </g>
+    <g transform="translate(0 124)">
+      <rect x="0" y="0" width="20" height="20" rx="4" fill="#2f6f73"/>
+      <text x="34" y="17" font-size="18" font-weight="700" fill="#24313d">Email</text>
+      <text x="210" y="17" font-size="18" font-weight="700" fill="#24313d" text-anchor="end">152</text>
+      <text x="250" y="17" font-size="16" fill="#637083">21.4%</text>
+    </g>
+    <g transform="translate(0 186)">
+      <rect x="0" y="0" width="20" height="20" rx="4" fill="#9c5f8f"/>
+      <text x="34" y="17" font-size="18" font-weight="700" fill="#24313d">Social</text>
+      <text x="210" y="17" font-size="18" font-weight="700" fill="#24313d" text-anchor="end">84</text>
+      <text x="250" y="17" font-size="16" fill="#637083">11.8%</text>
+    </g>
+  </g>
+</svg>
